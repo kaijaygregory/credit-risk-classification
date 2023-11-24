@@ -67,7 +67,7 @@ The performance metrics of the machine learning models are summarized below:
   - **Recall (Label 0 - Healthy Loans):** 1.00
   - **Recall (Label 1 - High-Risk Loans):** 1.00
   
-  #__Summary__
+  __Summary__
 
 The logistic regression models demonstrate consistent and robust performance in distinguishing between healthy and high-risk loans. Both models exhibit perfect precision and recall for healthy loans, ensuring accurate identification of these loans. For high-risk loans, the models maintain a high precision of 87%, correctly identifying a substantial portion of high-risk loans while maintaining a high accuracy level for healthy loans.
 
